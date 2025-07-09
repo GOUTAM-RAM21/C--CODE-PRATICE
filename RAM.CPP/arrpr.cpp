@@ -12,4 +12,4 @@ int main() {
     display(arr,n,0);
     return 0;
     
-}
+} 
